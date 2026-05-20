@@ -3,35 +3,35 @@
       "nome": "ray",
       "idade": "15 anos",
       "sexo": "feminino", 
-      "cidade": "foz do iguaçu",
-    },
+      "cidade": "foz do iguaçu"
+},
 
     {
       "nome": "vane",
       "idade": "15 anos",
       "sexo": "feminino", 
-      "cidade": "foz do iguaçu",
-    },
+      "cidade": "foz do iguaçu"
+},
 
     {
       "nome": "lorenzo",
       "idade": "16 anos",
       "sexo": "masculino", 
-      "cidade": "foz do iguaçu",
-    },
+      "cidade": "foz do iguaçu"
+},
 
     {
       "nome": "gabs",
       "idade": "17 anos",
       "sexo": "feminino", 
-      "cidade": "foz do iguaçu",
-    },
+      "cidade": "foz do iguaçu"
+},
 
     {
       "nome": "ana",
       "idade": "15 anos",
       "sexo": "feminino", 
-      "cidade": "foz do iguaçu",
-    }
+      "cidade": "foz do iguaçu"
+}
 ]
 

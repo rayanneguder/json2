@@ -1,9 +1,23 @@
-function ray(){
+function ray() {
     fetch('dados.json')
     .then (response => response.json())
-    .then(dadosana =>{
+    .then(dadinho => {
         tablet = document.getElementById('destino');
 
-        dadosana.forEach(pesssoa => {
+        dadinho.forEach(pessoa => {
+            let linha = document.createElement('tr');
+          
+          linha.innerHTML =`
+          <td> ${pessoa.nome} </td>
+          <td> ${pessoa.idade} </td>
+          <td> ${pessoa.sexo} </td>
+          <td> ${pessoa.cidade} </td>
+          <button type="button" onclick="ray()">oi</button>
+          `
+          tablet.appendChild(linha);
+            
+        });
+
+    })
 
 }
